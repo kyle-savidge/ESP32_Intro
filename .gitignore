@@ -10,6 +10,8 @@ local.properties
 docs/
 .project
 .cproject
+sch_lib
+fp_lib
 
 # Ignore list for Eagle, a PCB layout tool
 
